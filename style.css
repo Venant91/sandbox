@@ -1,0 +1,21 @@
+header h1 {
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.box {
+    border-style: dotted;
+    margin-top: 50px;
+    padding: 20px 50px;
+}
+
+#first {
+    background-color: aquamarine;
+}
+#second {
+    background-color: gold;
+}
+#third {
+    background-color: rgb(244, 127, 255);
+}
